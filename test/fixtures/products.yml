@@ -1,0 +1,6 @@
+plumbus:
+  name: "Plumbus"
+  tagline: "Gotta buy it!"
+hello:
+  name: "Hello"
+  tagline: "World"
